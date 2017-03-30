@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[https://liuwq168.org](https://liuwq168.org)
+地址：[http://www.br11565351.icoc.me/](http://www.br11565351.icoc.me/)
 
 ### 安装说明
 
