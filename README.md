@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://www.br11565351.icoc.me/](http://www.br11565351.icoc.me/)
+地址：[https://my.oschina.net/u/3397141/blog/871130](https://my.oschina.net/u/3397141/blog/871130)
 
 ### 安装说明
 
