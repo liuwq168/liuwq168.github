@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://liuwq168/](http://liuwq168/)
+地址：[http://liuwq168.me/](http://liuwq168.me/)
 
 ### 安装说明
 
