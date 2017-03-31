@@ -4,7 +4,7 @@ email: liuwenji1314@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   刘文强的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://liuwq168.org # the base hostname & protocol for your site
+url: http://liuwq168/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Wenqiang Liu
 
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: liuwq168.org
+  url: liuwq168
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
